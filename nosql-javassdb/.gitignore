@@ -1,0 +1,11 @@
+*.o
+*.a
+*.class
+.DS_Store
+*.pyc
+*.swp
+*_cpy_*
+.project
+.classpath
+target
+
